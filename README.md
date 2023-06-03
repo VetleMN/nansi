@@ -5,7 +5,7 @@
 This ia fork of [Norwerty](https://github.com/tobiasvl/norwerty) and it has been modified to be similar to [Nansi](https://github.com/oeywil/Nansi), but for Linux.  
 
 
-* [Norwerty for Linux](#norwerty-for-linux)
+* [Nansi for Linux](#nansi-for-linux)
 
 <!--The design goal for the Norwerty layout is to retain as much as possible of the standard US layout (also known as the ANSI keyboard layout), while adding the keys <kbd>Æ</kbd>, <kbd>Ø</kbd>, and <kbd>Å</kbd> from the standard Norwegian layout. This alternative software layout is especially useful if you are working on a US keyboard and want to write in Norwegian. Arguably, Norwerty is a better choice than the standard Norwegian layout even if you are working on a Norwegian keyboard, as it incorporates more of the superior key arrangement of the US layout. With the standard Norwegian layout, many frequently used symbols are surprisingly inconvenient to type, such as <kbd>@</kbd> in email addresses, <kbd>/</kbd> in web addresses, and <kbd>$</kbd> in programming. These conventions were set by people who used the US layout where these symbols can be typed conveniently. The Norwerty layout makes it possible to enjoy this convenience while typing in Norwegian.
 
