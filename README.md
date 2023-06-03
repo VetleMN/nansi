@@ -2,7 +2,7 @@
 
 ![Norwerty Keyboard Layout](assets/images/norwerty.svg)
 
-This ia fork of [Norwerty](https://github.com/tobiasvl/norwerty) and it has been modified to be similar to [Nansi](https://github.com/oeywil/Nansi), but for Linux.  
+This ia fork of [Norwerty](https://github.com/tobiasvl/norwerty) and it has been modified to be similar to [Nansi](https://github.com/oeywil/Nansi), but for Linux instead of Windows.
 
 
 
