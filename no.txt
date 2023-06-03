@@ -1,7 +1,7 @@
 //Nansi by Vetle M.N.
 //Based on Norwerty by Tobias V. Langhoff
 partial alphanumeric_keys
-xkb_symbols "norwerty" {
+xkb_symbols "nansi" {
 
     name[Group1]="Norwegian - Nansi";
 
